@@ -1,0 +1,1 @@
+Answer to StackOverflow question: [Access app.set setting in controller of express application on node.js](http://stackoverflow.com/questions/10567136/access-app-set-setting-in-controller-of-express-application-on-node-js/10572907#10572907)
